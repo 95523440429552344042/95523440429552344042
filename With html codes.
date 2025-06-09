@@ -1,0 +1,7 @@
+//check if the numberis positive,negative or zero
+const number = prompt(" Enter a number:");
+
+if ( number >=0){
+  if( number ==०){
+     console.log (" the number is zero");
+     } else{
