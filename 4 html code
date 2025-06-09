@@ -1,0 +1,10 @@
+<html>
+  <body>
+     <H1>CEL Coding program </H1>
+     <H3> Current time is </h3>
+     <p id="date"> </p>
+   </body>
+   <script>
+     document.getELementById('date).innerHTML=Date(();
+    </script>
+  </html>
