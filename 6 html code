@@ -1,0 +1,14 @@
+<html>
+    <stylr>
+       <div id ="about">
+              <H1>Fun lerning videos</h1>
+              <p>this website has funlearnin videos about math and science.</p>
+              <img src="E:\HTML Css Javascript\curriculum\theme 2\Resoource\children.Jpg">
+          </div>
+          <div id ="submath">
+              <H1>want to learn math?</h1>
+              <p>you might have heard that math is everywhere around us.</p>
+
+          </div>
+        </style>
+    </html>
