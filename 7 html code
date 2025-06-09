@@ -1,0 +1,17 @@
+<html>
+     <body id "smile">
+            <H1>Cursor changer</H1>
+            <button onclick="smile(tbi.innerHTML">Girl</button>
+            <button onclick="smile(this.innerHTML)">Hand</button>
+      </body>
+      <script>
+             functio smile(image){
+                if(image=="Girl"){
+                    document.getElementById("smile").style.Cursor="url('D:/CEL/course 4/ them 2/Lesson 10/ Girl/.png'),auto";
+                 }else if (image="Hand"){)
+                   document.getElemen
+                   tById("smile").style.Cursor="url('Hand.png'),auto";
+                   }
+                }
+                </script>
+              </html>
