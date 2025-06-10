@@ -1,0 +1,6 @@
+<html>
+    <body>
+         <h2> What your learning today?</h2>
+         <button onclick =alert("you are kearning about Events!')">Click Me!</button>
+      </body>
+  </html>
