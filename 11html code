@@ -1,0 +1,7 @@
+<html>
+     <body>
+        <h1> super Duper Joke </h1>
+        <h2>What did the oceansay to the shore ?</h2>
+        <button onclick ="alert ('Nithing!It Justwaved')"> Click me button to know!</button>
+      </body>
+  </html>
