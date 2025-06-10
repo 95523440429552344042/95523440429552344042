@@ -1,0 +1,9 @@
+//input from the user 
+const min =parseInt(Prompt("Enter amin value:));
+const max=paraseInt( prompt("Enter a max value :"));
+
+//generating a random number
+const a = math. floor(math.random()*(max-min+1))+min:
+
+//display a random number
+console.log(Random value between${min}and${max} is ${a};
