@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+   <head>
+        <title>welcome to HTML</title>
+    </head>
+    <body>
+          <h1>simple HTMLcode </h1>
+          <p>HTML stands for hyper text markup languge.</p>
+    </body>
+</html>
