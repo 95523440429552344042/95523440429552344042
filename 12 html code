@@ -1,0 +1,22 @@
+<html>
+    <style>
+        h1{
+          font-family:Verdana;
+          color:pink;
+      }
+      button{
+          font-family: Verdana;
+          color:pink;
+      }
+      </style>
+      <body>
+           <h1>Magic buttons </h2>
+           <div>
+               <h3> Magic Buttons one </h3>
+               <p> Click the buttons below to know on thing about you </p>
+               <button onclick ="alert ('you are awesome !')">click Me!</button>
+            </div>
+        </body>
+    </html>
+        
+           
