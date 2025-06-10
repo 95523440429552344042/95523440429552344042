@@ -1,0 +1,24 @@
+<html>
+    <script>
+         function add (a,b){
+              return a+b;
+          }
+          function sub(a,b){
+              return a-b;
+          }
+          function mul (a,b){
+               return a*b;
+          }
+          function div (a,b){
+               return a/b;
+          }
+          function rem ( a,b){
+                return a%b;
+          }
+          document.getELementByIf("add").innerHTML=add(5,2);
+          document.geElementById("sub").innerHTML=sub(5,2);
+          document.getELementId("mul").innerHTML=mul(5,2);
+          document.getElementId("div").innerHTML=div(5,2);
+          document.getElemantId("rem").innerHTML=rem(5,2);
+    </script>
+</html>
