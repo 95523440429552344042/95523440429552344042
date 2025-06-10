@@ -1,0 +1,16 @@
+<html>
+     <style>
+        magic{
+        font-family: Vardana;
+        color: red;
+     }
+     <style>
+     <body>
+         <h1 class ="magic">Magic Buttons </h1>
+      <div>
+           <h3> Magic Buttons one</h3>
+           <p>Click the button below to know on thing about you</p>
+           <button class="magic";onclick="alert('you are awesome !')">ClickMe!</button>
+      </div>
+    </body>
+  </html>
