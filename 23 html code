@@ -1,0 +1,7 @@
+const basevalue=10
+const heightvalue==
+
+//calculate the area
+const areavalue =(basevalue*heightvalue)/2;
+
+console.log(
