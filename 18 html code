@@ -1,0 +1,16 @@
+//Javascrit program to swap two variables
+
+//take input from the users 
+let a=prompt('Enter the first variable:');
+let b=prompt('Enter second variables:');
+
+//create a temporary variable
+let temp;
+
+//swap variables
+temp =a;
+a=b;
+b=temp;
+
+cosole.log(the value of a after swapping: s{a}');
+console.log('the value of batter swapping:{b}');
