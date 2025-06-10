@@ -1,0 +1,10 @@
+Let score=45;
+
+//check if score is fifty or greater if (score>=50){
+        console.log("you possed the examination.");
+    }
+    else{
+         console.log("you failed the examination.");
+      }
+
+      //output:you failed the examination;
