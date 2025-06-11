@@ -1,0 +1,9 @@
+// sqrt() with positive infinity
+let number1=Math.sqrt(Infinity)
+console.log(number1);
+
+//sqrt() with negative infinity 
+let number2=Math.sqrt(-Infinity);
+console.log(number2);
+
+//output:NaN
