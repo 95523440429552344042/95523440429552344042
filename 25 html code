@@ -1,0 +1,5 @@
+//cbrt() with a decimal number
+let number1=Math.cbrt ("81");
+console.log(number1);
+
+//output:4.326748710922225
