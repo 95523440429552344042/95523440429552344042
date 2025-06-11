@@ -1,0 +1,11 @@
+const number1=2.25;
+const number2=-4;
+const number3='hello';
+
+const result number1=math.sqrt(number1);
+const result number2=math.sqrt(number2);
+const result number3=math.sqrt(number3);
+
+console.log('there square root of $ {number1}is $ {result1}');
+console.log('there square root of $ {number2}is $ {result2}');
+console.log('there square root of $ {number3}is $ {result3}');
