@@ -1,0 +1,5 @@
+//sqrt () with negative number
+let number=Math.sqrt(-324);
+console.log(number);
+
+//Output:NaN
